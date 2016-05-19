@@ -36,7 +36,7 @@ img{
 .columnLeft,.columnRight{
 	float:left;
 	border:1px solid #DADADA;
-	height:105vh;
+	height:108vh;
 	display:inline-block;
 	overflow:hidden;
 }
